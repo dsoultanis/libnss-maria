@@ -1,0 +1,125 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "test",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "nss-maria",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "config_db_settings::@145eef247bfb46b6828c",
+					"jsonFile" : "target-config_db_settings-Debug-d6ab218790efa03619f3.json",
+					"name" : "config_db_settings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "maria_config_helpers_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-maria_config_helpers_test-Debug-6d84565de83b8be24a01.json",
+					"name" : "maria_config_helpers_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "maria_config_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-maria_config_test-Debug-948bc50a2353c8deae38.json",
+					"name" : "maria_config_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "maria_logger_test::@36f028580bb02cc8272a",
+					"jsonFile" : "target-maria_logger_test-Debug-f3e5da3ef36db997f379.json",
+					"name" : "maria_logger_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "nss-maria::@145eef247bfb46b6828c",
+					"jsonFile" : "target-nss-maria-Debug-b93fd8d797e2c8573556.json",
+					"name" : "nss-maria",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/github/libnss-maria/out/build/x64-Debug",
+		"source" : "D:/github/libnss-maria"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

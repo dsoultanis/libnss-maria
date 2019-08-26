@@ -1,0 +1,14 @@
+D:/github/libnss-maria/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/github/libnss-maria/out/build/x64-Debug/CMakeFiles/test.dir
+D:/github/libnss-maria/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/github/libnss-maria/out/build/x64-Debug/src/CMakeFiles/nss-maria.dir
+D:/github/libnss-maria/out/build/x64-Debug/src/CMakeFiles/config_db_settings.dir
+D:/github/libnss-maria/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+D:/github/libnss-maria/out/build/x64-Debug/src/CMakeFiles/test.dir
+D:/github/libnss-maria/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+D:/github/libnss-maria/out/build/x64-Debug/test/CMakeFiles/maria_logger_test.dir
+D:/github/libnss-maria/out/build/x64-Debug/test/CMakeFiles/maria_config_helpers_test.dir
+D:/github/libnss-maria/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
+D:/github/libnss-maria/out/build/x64-Debug/test/CMakeFiles/test.dir
+D:/github/libnss-maria/out/build/x64-Debug/test/CMakeFiles/maria_config_test.dir
+D:/github/libnss-maria/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
